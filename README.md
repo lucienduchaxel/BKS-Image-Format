@@ -11,3 +11,7 @@ To Encode as a bks:
 To decode from bks:
 
 `python bks_converter.py decompress source_image.bks target_image.png`
+
+# Dependencies
+
+The only one used is pillow
